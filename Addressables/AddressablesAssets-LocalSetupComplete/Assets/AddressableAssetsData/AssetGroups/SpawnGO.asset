@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: SpawnGO
+  m_EditorClassIdentifier: 
+  m_GroupName: SpawnGO
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 5781765b058f0c74d804655183dfbcde
+  m_SerializeEntries:
+  - m_GUID: 374c375a6a35b499eb4e751906905462
+    m_Address: Assets/Prefabs/MyObject.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 4693ad8f3aeda1749aa1c3a024ce5fe4, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: a1516e6d1120c1040bb57d496a501fd9, type: 2}
+    - {fileID: 11400000, guid: 5b617454b6b1fe94c8df4595a4007767, type: 2}
